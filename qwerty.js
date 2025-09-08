@@ -28,12 +28,12 @@ var nama = prompt("nama", "sypa kek");
       let hasil;
       
       if (nilai < 30) {
-        hasil = "jahat bgt anj";
+        hasil = "jahat bgt sih";
       } else if (nilai >= 30 && nilai < 60) {
         hasil = "kamu jahat";
-      } else if (nilai >= 60 && nilai < 85) {
-        hasil = "hmm";
-      } else if (nilai >= 85) {
+      } else if (nilai >= 60 && nilai < 80) {
+        hasil = "ckptw";
+      } else if (nilai >= 80) {
         hasil = "maaci";
       } else {
         hasil = "masukkan nilai yang valid!";
